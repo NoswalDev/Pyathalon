@@ -1,0 +1,7 @@
+print(5/2)
+print(5%2)
+print(5+5/2)
+print(5+3%2)
+print(5>4)
+print("text in line with expresion", 5+7>8)
+print(5.0/3)
