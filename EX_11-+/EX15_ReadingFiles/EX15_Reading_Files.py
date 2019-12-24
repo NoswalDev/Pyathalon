@@ -6,7 +6,6 @@ script, target = argv
 
 txt = open(target)
 
-
 print(f"This is {target}:")
 print(txt.read())
 
