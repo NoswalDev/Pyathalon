@@ -6,3 +6,6 @@ print(tList)
 tList = [[]*5]
 tList[0].append(1)
 print(tList)
+
+tList = [1]*5
+print(tList)
